@@ -1,0 +1,11 @@
+https://www.strato.de/apps/CustomerService
+Kundennummer: 75994730 
+!kirtanmela2020
+
+
+Server:
+510625787.ssh.w1.strato.hosting
+stu16026316 
+V0lbeat111arethebest
+php -S localhost:8000
+dk108kkd@googlemail.com
