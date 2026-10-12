@@ -50,12 +50,12 @@
   <h2 class="section-title">Harinama in München</h2>
   <div class="event-details">
     <h3>Nächste Harinama</h3>
-    <p class="event-date">📅 October 10, 2026</p>
+    <p class="event-date">📅 October 17, 2026</p>
     <p>Von 13:30 bis 17:30, Sendlingerstr. 19 in München.</p>
   </div>
   <div class="video-container">
-    <video controls poster="images/oktoberfest.jpg" class="responsive-video">
-      <source src="videos/oktoberfest.mp4" type="video/mp4">
+    <video controls poster="images/harinama_rain.jpg" class="responsive-video">
+      <source src="videos/harinama_rain.mp4" type="video/mp4">
       Ihr Browser unterstützt das Video-Tag leider nicht.
     </video>
   </div>
