@@ -29,6 +29,7 @@
         </a>
       </div>
       <div class="header-text">
+        <p class="header-org-name">International Society for Krishna Consciousness</p>
         <h1><a href="index.php" class="header-home-link">ISKCON München</a></h1>
         <p class="subtitle">Sri Sri Gaura Nitai Tempel</p>
       </div>
