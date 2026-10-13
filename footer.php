@@ -5,7 +5,7 @@
     <div class="container footer-content">
       <div class="footer-section">
         <h3>Kontakt</h3>
-        <p>📧 E-Mail: <a href="info@iskcon-muenchen.de">info@iskcon-muenchen.de</a></p>
+        <p>📧 E-Mail: <a href="mailto:info@iskcon-muenchen.de">info@iskcon-muenchen.de</a></p>
         <p>📞 Telefon: <a href="tel:+4917661435026">+49(0)17661435026</a></p>
       </div>
 

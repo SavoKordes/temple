@@ -15,7 +15,8 @@
       <p>
         Eintragung im Vereinsregister<br>
         Registergericht: Amtsgericht München<br>
-        Registernummer: VR 15094
+        Registernummer: VR 15094<br>
+        Verantwortliche: El-Hassan, Dorit
       </p>
 
       <p>
