@@ -41,6 +41,10 @@
       </div>
     </section>
 
+    <section class="card">
+      <img src="images/sankirtan.jpg" alt="Sankirtan" class="responsive-img">
+    </section>
+
     <!-- JEDEN SONNTAG IM TEMPEL -->
     <section class="card sunday-card">
       <h2 class="section-title">Jeden Sonntag im Tempel</h2>
@@ -56,11 +60,12 @@
     <!-- HARINAMA IN MÜNCHEN -->
     <section class="card video-card">
   <h2 class="section-title">Harinama in München</h2>
-  <!--<div class="event-details">
+  <div class="event-details">
     <h3>Nächste Harinama</h3>
-    <p class="event-date">📅 October 10, 2026</p>
-    <p>Von 13:30 bis 17:30, Sendlingerstr. 19 in München.</p>
-  </div>-->
+    <p class="event-date">📅 October 17, 2026</p>
+    <!--<p>Von 13:30 bis 17:30, Sendlingerstr. 19 in München.</p>-->
+    <p>Von 12:00 bis 14:00, Treffpunkt am Gleis 12, Hauptbahnhof München.</p>
+  </div>
   <div class="video-container">
     <video controls poster="images/harinama_rain.jpg" class="responsive-video">
       <source src="videos/harinama_rain.mp4" type="video/mp4">
